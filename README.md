@@ -68,7 +68,14 @@ RTL realization
 Output:
 RTL
 
+![INPUT EX 1 DE ](https://user-images.githubusercontent.com/119559844/231240407-83ff9d53-4bf0-4ef8-ba1e-a8ecf58df127.png)
+
+![EX 1 DE DIA ](https://user-images.githubusercontent.com/119559844/231240749-51e1617d-17d2-46e6-ac5b-fb86922d7427.png)
+
+
 OUTPUT:
+
+![OUTPUT EX 1 DE ](https://user-images.githubusercontent.com/119559844/231240317-a63cf686-1157-42dd-a248-6d99c59af3c4.png)
 
 
 Result: 
